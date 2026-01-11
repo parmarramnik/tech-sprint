@@ -30,6 +30,12 @@ firebase.json
 .vscode
 .idea
 
+# Vite
+/.vite
+.vite/
 
+# Env
+.env
+.env.local
 
 
